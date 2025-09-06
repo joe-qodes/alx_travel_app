@@ -1,5 +1,20 @@
-.env
+
+# Virtual environment
+myvenv/
+
+# Python bytecode
 *.pyc
 __pycache__/
+
+# Environment variables
+.env
+
+# Database files
 db.sqlite3
-myvenv
+
+# VS Code / IDE configs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
